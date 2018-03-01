@@ -1,0 +1,19 @@
+{
+  "name": "campaignsmartcontract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reemardelarosa/CampaignSmartContract.git"
+  },
+  "author": "John Reemar Dela Rosa - jrddelarosa@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reemardelarosa/CampaignSmartContract/issues"
+  },
+  "homepage": "https://github.com/reemardelarosa/CampaignSmartContract#readme"
+}
