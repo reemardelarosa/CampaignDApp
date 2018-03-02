@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/reemardelarosa/CampaignSmartContract/issues"
   },
-  "homepage": "https://github.com/reemardelarosa/CampaignSmartContract#readme"
+  "homepage": "https://github.com/reemardelarosa/CampaignSmartContract#readme",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "ganache-cli": "^6.0.3",
+    "mocha": "^5.0.1",
+    "solc": "^0.4.20",
+    "web3": "^1.0.0-beta.26"
+  }
 }
